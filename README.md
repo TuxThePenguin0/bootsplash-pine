@@ -1,6 +1,9 @@
 # Bootsplash-Pine
 Kernel Bootsplash theme for Manjaro patched Linux kernels using Pine logo
 
+## Preview
+![Preview](preview.png?raw=true)
+
 ## Installation
 1. Add `bootsplash-pine` to the end of the HOOKS section in your mkinitcpio.conf
 2. Build and install package (It should automatically rebuild your initcpio)
